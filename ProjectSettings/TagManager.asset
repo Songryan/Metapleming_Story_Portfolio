@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ForeGround
+  - MidGround
+  - Monster
+  - Attack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MidGround
+  - ForeGround
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1610262209
+    locked: 0
+  - name: Midground
+    uniqueID: 453883857
+    locked: 0
+  - name: Foregruond
+    uniqueID: 2269076097
+    locked: 0
+  - name: Enemy
+    uniqueID: 2068759479
+    locked: 0
+  - name: Player
+    uniqueID: 3419967791
+    locked: 0
+  - name: Interface
+    uniqueID: 3104344357
+    locked: 0
+  - name: ToolTip
+    uniqueID: 2361595835
+    locked: 0
